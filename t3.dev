@@ -1,5 +1,5 @@
 [Project]
-FileName=t2.dev
+FileName=t3.dev
 Name=t2
 Type=1
 Ver=2
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=main1.c
+FileName=main2.c
 CompileCpp=0
 Folder=
 Compile=1
